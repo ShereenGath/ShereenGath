@@ -6,7 +6,7 @@ PhD researcher in Engineering Systems at Skoltech (System Analysis and Informati
 - 🌱 I'm currently learning A/B testing, Apache Airflow, MLflow and Docker.
 - 👯 I'm looking to collaborate on data science projects in e-commerce, personalization, pricing and forecasting, as well as industrial and energy analytics.
 - 💬 Ask me about signal processing, time series forecasting, feature engineering on sensor data, and power system equipment diagnostics.
-- - 📫 How to reach me: Shereen.gath@skoltech.ru · [LinkedIn](https://www.linkedin.com/in/shereen-gath-5b9a7619b/)
+- 📫 How to reach me: Shereen.gath@skoltech.ru · [LinkedIn](https://www.linkedin.com/in/shereen-gath-5b9a7619b/)
 
 **Languages:** Python, SQL
 **Data analysis:** NumPy, Pandas, Matplotlib, Jupyter Notebook, Excel, Tableau (basics)
